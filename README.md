@@ -1,1 +1,1 @@
-# 3D3rdPLabyrinth
+# MagitoRPG
